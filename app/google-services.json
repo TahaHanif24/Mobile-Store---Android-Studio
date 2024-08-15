@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872040247930",
+    "project_id": "easybazaronline-app",
+    "storage_bucket": "easybazaronline-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872040247930:android:b7973f4af0e06bda7041c3",
+        "android_client_info": {
+          "package_name": "com.example.javaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcN637HmUkyJLVgBQu7inbv2lNzXm1mfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
